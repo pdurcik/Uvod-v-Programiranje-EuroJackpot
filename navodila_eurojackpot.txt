@@ -1,0 +1,21 @@
+Pozdravljeni!
+
+Za projet pri predmetu Uvod v programiranje sem se odloèil, da bom naredil simuacijo igre na sreèo EuroJackpot.
+Navodila: 
+V datoteko 'vplacilni_listki' vpišite svoje listke na naslednji naèin:
+vsak listek napišite v svojo vrstico, listek pa je sestavljen iz dveh nizov: v prvem nizu je 5 razliènih števil
+od 1 do 50 (loèene so samo z vejico, vrstni red števil ni važen), v drugem nizu pa dve razlièni števili od 1 do 10 
+(loèene so samo z vejico, vrstni red števil ni važen), med obema nizoma pa je en presledek. V datoteko lahko
+napišete najveè 5 listkov.
+
+Primer listka: 
+1,43,25,6,50 3,8
+
+Primer datoteke (s tremi listki):
+5,3,20,33,17 4,2
+50,32,27,6,11 1,10
+22,5,15,45,4 8,9
+
+Žrebanje je enkratno. Za ponovno žrebanje je potrebno še enkrat zagnati program.
+
+Veliko sreèe!
